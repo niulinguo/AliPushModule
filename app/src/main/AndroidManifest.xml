@@ -19,13 +19,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-
-        <meta-data
-            android:name="com.alibaba.app.appkey"
-            android:value="25190213"/> <!-- 请填写你自己的- appKey -->
-        <meta-data
-            android:name="com.alibaba.app.appsecret"
-            android:value="70d6e285c596b9921acfc35f202efc49"/> <!-- 请填写你自己的appSecret -->
     </application>
 
 </manifest>
